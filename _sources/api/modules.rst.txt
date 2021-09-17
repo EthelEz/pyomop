@@ -1,0 +1,7 @@
+pyomop
+======
+
+.. toctree::
+   :maxdepth: 4
+
+   pyomop

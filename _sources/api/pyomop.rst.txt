@@ -1,0 +1,61 @@
+pyomop package
+==============
+
+Submodules
+----------
+
+pyomop.cdm6\_tables module
+--------------------------
+
+.. automodule:: pyomop.cdm6_tables
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+pyomop.engine\_factory module
+-----------------------------
+
+.. automodule:: pyomop.engine_factory
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+pyomop.main module
+------------------
+
+.. automodule:: pyomop.main
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+pyomop.sqldict module
+---------------------
+
+.. automodule:: pyomop.sqldict
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+pyomop.vector module
+--------------------
+
+.. automodule:: pyomop.vector
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+pyomop.vocabulary module
+------------------------
+
+.. automodule:: pyomop.vocabulary
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: pyomop
+   :members:
+   :undoc-members:
+   :show-inheritance:
